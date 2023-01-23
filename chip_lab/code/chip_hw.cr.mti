@@ -1,0 +1,55 @@
+E:/edge_download/lab/lab/code/line_buffer.v {1 {vlog -work work -vopt -stats=none E:/edge_download/lab/lab/code/line_buffer.v
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module line_buffer
+
+Top level modules:
+	line_buffer
+
+} {} {}} E:/edge_download/lab/lab/code/add.v {1 {vlog -work work -vopt -stats=none E:/edge_download/lab/lab/code/add.v
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module add2
+-- Compiling module add4
+-- Compiling module add9
+-- Compiling module add10
+
+Top level modules:
+	add2
+	add9
+	add10
+
+} {} {}} E:/edge_download/lab/lab/code/mul.v {1 {vlog -work work -vopt -stats=none E:/edge_download/lab/lab/code/mul.v
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module mul
+
+Top level modules:
+	mul
+
+} {} {}} E:/edge_download/lab/lab/code/cutoff.v {1 {vlog -work work -vopt -stats=none E:/edge_download/lab/lab/code/cutoff.v
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module cutoff
+
+Top level modules:
+	cutoff
+
+} {} {}} E:/edge_download/lab/lab/code/Dconv_3x3_PE.v {1 {vlog -work work -vopt -stats=none E:/edge_download/lab/lab/code/Dconv_3x3_PE.v
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module Dconv_3x3_PE
+
+Top level modules:
+	Dconv_3x3_PE
+
+} {} {}} E:/edge_download/lab/lab/code/cnn.v {1 {vlog -work work -vopt -stats=none E:/edge_download/lab/lab/code/cnn.v
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module cnn
+
+Top level modules:
+	cnn
+
+} {} {}} E:/edge_download/lab/lab/code/tb_cnn.sv {1 {vlog -work work -vopt -sv -stats=none E:/edge_download/lab/lab/code/tb_cnn.sv
+QuestaSim-64 vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module tb_cnn
+
+Top level modules:
+	tb_cnn
+
+} {} {}}

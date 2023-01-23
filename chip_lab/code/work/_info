@@ -1,0 +1,215 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/questasim64_10.4c/examples
+T_opt
+!s110 1669853302
+VKNeR^C0M=[G@U@h^NLZ580
+04 6 4 work tb_cnn fast 0
+=1-002b67bd73ec-6387f072-8c-3e20
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4c;61
+R0
+vadd10
+Z1 !s110 1669853480
+!i10b 1
+!s100 f0DMJ:kY```jmURjeTi7;1
+I6IlVnlcYM<BY=RVG66`L70
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dE:/edge_download/lab/lab/code
+Z4 w1634356174
+Z5 8E:/edge_download/lab/lab/code/add.v
+Z6 FE:/edge_download/lab/lab/code/add.v
+L0 194
+Z7 OL;L;10.4c;61
+r1
+!s85 0
+31
+Z8 !s108 1669853480.000000
+Z9 !s107 E:/edge_download/lab/lab/code/add.v|
+Z10 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/edge_download/lab/lab/code/add.v|
+!i113 0
+Z11 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vadd2
+R1
+!i10b 1
+!s100 ;HjnL2L9PnJz8]nSP7D>a3
+I_J^e3mzVFf@f5TYFfhhBU3
+R2
+R3
+R4
+R5
+R6
+L0 20
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+vadd4
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 _3`f8bm0HAzI56]13IHfD2
+IWdIZ>E=h9B]ba=4dhFVcf3
+R3
+R4
+R5
+R6
+L0 59
+R7
+R8
+R9
+R10
+!i113 0
+R11
+vadd9
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 ^]k]<X5TNBNNDEbQdcQ@^3
+Ig<V1@8:S>>QIN6>C]Pibm0
+R3
+R4
+R5
+R6
+L0 109
+R7
+R8
+R9
+R10
+!i113 0
+R11
+vcnn
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 hHc9<KX0_J=E>KRfT=f_z3
+IRBZjimKk4`djo[e^0gJU02
+R3
+w1636551968
+8E:/edge_download/lab/lab/code/cnn.v
+FE:/edge_download/lab/lab/code/cnn.v
+L0 1
+R7
+R8
+!s107 E:/edge_download/lab/lab/code/cnn.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/edge_download/lab/lab/code/cnn.v|
+!i113 0
+R11
+vcutoff
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 Fbl;1LBKHeZ`WOTQH7kkn1
+IF9NJ>D3Sg0UYML;A`K`c93
+R3
+w1669853476
+8E:/edge_download/lab/lab/code/cutoff.v
+FE:/edge_download/lab/lab/code/cutoff.v
+Z12 L0 19
+R7
+R8
+!s107 E:/edge_download/lab/lab/code/cutoff.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/edge_download/lab/lab/code/cutoff.v|
+!i113 0
+R11
+vDconv_3x3_PE
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 H_I16?>;H^YXB11?U<XA]1
+I??Q6CQg^0eNQR06CSBngk2
+R3
+w1636555660
+8E:/edge_download/lab/lab/code/Dconv_3x3_PE.v
+FE:/edge_download/lab/lab/code/Dconv_3x3_PE.v
+Z13 L0 18
+R7
+R8
+!s107 E:/edge_download/lab/lab/code/Dconv_3x3_PE.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/edge_download/lab/lab/code/Dconv_3x3_PE.v|
+!i113 0
+R11
+n@dconv_3x3_@p@e
+vline_buffer
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 ^h`Q76>J@G]jBSP`<B`Uc0
+I6FLfAAn@79fD4nRo^mPa=3
+R3
+w1634352898
+8E:/edge_download/lab/lab/code/line_buffer.v
+FE:/edge_download/lab/lab/code/line_buffer.v
+R13
+R7
+R8
+!s107 E:/edge_download/lab/lab/code/line_buffer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/edge_download/lab/lab/code/line_buffer.v|
+!i113 0
+R11
+vmul
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 25jHOGLE;7JAdM>KR4Ch;3
+IAPH_48j:eIozC<fjVA<U>2
+R3
+R4
+8E:/edge_download/lab/lab/code/mul.v
+FE:/edge_download/lab/lab/code/mul.v
+R12
+R7
+R8
+!s107 E:/edge_download/lab/lab/code/mul.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/edge_download/lab/lab/code/mul.v|
+!i113 0
+R11
+vtb_cnn
+DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 6LY]I1l@6Ll_Q6Oj8_kfo1
+ICBXb5_2LmmCLNfB;aB?Wn2
+!s105 tb_cnn_sv_unit
+S1
+R3
+w1636559102
+8E:/edge_download/lab/lab/code/tb_cnn.sv
+FE:/edge_download/lab/lab/code/tb_cnn.sv
+L0 13
+R7
+!s108 1669853479.000000
+!s107 E:/edge_download/lab/lab/code/tb_cnn.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/edge_download/lab/lab/code/tb_cnn.sv|
+!i113 0
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
